@@ -10,6 +10,19 @@ Thanks to Dr. Angela Yu and her "Complete Python Pro Bootcamp for 2022" (https:/
 
 | Legend | Category |  
 |--------|----------|  
-| :grinning: | SQL |  
-| :bike: | R |  
-| :mountain: | Python |  
+| :old_key: | SQL Bootcamp |  
+| :art: | R Bootcamp |  
+| :mountain: | Python Bootcamp |  
+
+  ## :old_key: SQL Bootcamp
+  ### Beginner
+  ### Intermediate
+
+  ## :art: R Bootcamp
+  ### Beginner
+  
+  ## :mountain: Python Bootcamp
+  ### Beginner
+  ### Intermediate
+  ### Advanced
+  ### Professional Portfolio Projects
