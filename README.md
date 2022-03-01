@@ -7,13 +7,6 @@ This repository includes examples & programs created through my journey of learn
 Thanks to Dr. Angela Yu and her "Complete Python Pro Bootcamp for 2022" (https://www.udemy.com/course/100-days-of-code/#instructor-1) for teaching me how relatable and fun Python can be every day.
 
 # Content summary
-
-  ## :old_key: SQL Bootcamp
-  ### Beginner
-  ### Intermediate
-
-  ## :art: R Bootcamp
-  ### Beginner
   
   ## :mountain: Python Bootcamp
   ### Beginner
