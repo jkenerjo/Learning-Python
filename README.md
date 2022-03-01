@@ -8,10 +8,6 @@ Thanks to Dr. Angela Yu and her "Complete Python Pro Bootcamp for 2022" (https:/
 
 # Content summary
 
-| Legend | Category |  
-|--------|----------|  
-| :mountain: | Python Bootcamp |  
-
   ## :old_key: SQL Bootcamp
   ### Beginner
   ### Intermediate
